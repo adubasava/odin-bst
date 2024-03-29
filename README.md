@@ -1,1 +1,1 @@
-# odin-bst
+# Odin Project Balanced Binary Search Tree
